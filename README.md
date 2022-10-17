@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá, eu sou a Mariana Paz!✌️
 
-<!--
-**maripzlima/maripzlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Aprendendo: Python e Java
+- 💼 Bacharel em Ciências Contábeis, atualmente trabalho como Assistente Fiscal. 
+- 📍 Localização: Fortaleza, Ceará, Brasil
+- 😄 Pronomes: Ela/Dela
 
-Here are some ideas to get you started:
+Curiosa, estou sempre buscando aprender coisas novas... tem sido assim com finanças/investimentos, inglês(inclusive fazendo traduções/legendas de alguns filmes sáficos), e agora estou me envolvendo no mundo da programação. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/maripzlima">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maripzlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maripzlima&layout=compact&langs_count=7&theme=dracula"/>
+</div>
