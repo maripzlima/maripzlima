@@ -1,6 +1,6 @@
 ## Olá, eu sou a Mariana Paz!✌️
 
-- 🌱 Aprendendo: Python e Automações
+- 🌱 Aprendendo: Python e como realizar automações por meio dela.
 - 💼 Bacharel em Ciências Contábeis, atualmente trabalho como Assistente Fiscal. 
 - 📍 Localização: Fortaleza, Ceará, Brasil
 
