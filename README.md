@@ -1,11 +1,10 @@
 ## Olá, eu sou a Mariana Paz!✌️
 
-- 🌱 Aprendendo: Python e Java
+- 🌱 Aprendendo: Python e Automações
 - 💼 Bacharel em Ciências Contábeis, atualmente trabalho como Assistente Fiscal. 
 - 📍 Localização: Fortaleza, Ceará, Brasil
-- 😄 Pronomes: Ela/Dela
 
-Curiosa, estou sempre buscando aprender coisas novas... tem sido assim com finanças/investimentos, inglês(inclusive fazendo traduções/legendas de alguns filmes sáficos), e agora estou me envolvendo no mundo da programação. 
+Curiosa, estou sempre buscando aprender coisas novas... tem sido assim com finanças/investimentos, inglês(inclusive fazendo traduções/legendas de alguns filmes sáficos), e agora estou me envolvendo no mundo da programação.
 
 <div>
   <a href="https://github.com/maripzlima">
